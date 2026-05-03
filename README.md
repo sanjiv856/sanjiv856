@@ -1,16 +1,48 @@
-## Hi there 👋
+## Sanjiv Kumar
 
-<!--
-**sanjiv856/sanjiv856** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computational Biologist | AI Systems for Bioinformatics
 
-Here are some ideas to get you started:
+I build AI-native systems for biological data analysis, combining machine learning, multi-agent architectures, and computational biology to accelerate discovery in genomics, imaging, and drug research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Focus
+
+* Multi-agent coding systems for automated bioinformatics pipelines
+* Scalable analysis of spatial, imaging, and multi-omics data
+* AI-assisted research workflows and reproducible science
+
+### Core Expertise
+
+* Bioinformatics: Genomics, Metagenomics, RNA-seq, Structural Biology
+* AI/ML: Scikit-learn, PyTorch, TensorFlow, LLM systems
+* Scientific Computing: Python, R, Bash, SQL
+* Imaging & Spatial Data: mIF, DAPI, segmentation, Zarr pipelines
+
+### Selected Work
+
+* **Agent-based Bioinformatics System**
+  Multi-agent architecture for generating, validating, and executing bioinformatics code pipelines
+
+* **Spatial Imaging Analysis Pipeline**
+  End-to-end pipeline for mIF and spatial transcriptomics data processing
+
+* **Computational Drug Discovery Workflows**
+  Docking, MD simulations, and target identification pipelines
+
+### Research Background
+
+Ph.D. in Biotechnology with 10+ years in computational biology, including:
+
+* Multi-omics and metagenomics analysis
+* Molecular dynamics simulations (GROMACS)
+* Protein structure and drug target discovery
+
+27+ peer-reviewed publications
+
+### Vision
+
+Building a modular, AI-driven bioinformatics platform that bridges research and production systems in biotech and pharma.
+
+### Links
+
+* Publications: Google Scholar
+* LinkedIn
