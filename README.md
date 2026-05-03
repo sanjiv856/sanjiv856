@@ -17,17 +17,6 @@ I build AI-native systems for biological data analysis, combining machine learni
 * Scientific Computing: Python, R, Bash, SQL
 * Imaging & Spatial Data: mIF, DAPI, segmentation, Zarr pipelines
 
-<-- ### Selected Work
-
-* **Agent-based Bioinformatics System**
-  Multi-agent architecture for generating, validating, and executing bioinformatics code pipelines
-
-* **Spatial Imaging Analysis Pipeline**
-  End-to-end pipeline for mIF and spatial transcriptomics data processing
-
-* **Computational Drug Discovery Workflows**
-  Docking, MD simulations, and target identification pipelines -->
-
 ### Research Background
 
 Ph.D. in Biotechnology with 10+ years in computational biology, including:
