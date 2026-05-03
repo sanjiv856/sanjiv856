@@ -44,5 +44,5 @@ Building a modular, AI-driven bioinformatics platform that bridges research and 
 
 ### Links
 
-* Publications: Google Scholar
-* LinkedIn
+* Publications: [Google Scholar](https://scholar.google.com/citations?user=ML7X29AAAAAJ&hl=en)
+* [LinkedIn](https://github.com/sanjiv856)
