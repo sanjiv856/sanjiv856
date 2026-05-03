@@ -1,3 +1,5 @@
+<img width="2172" height="724" alt="Sanjiv_Github_1" src="https://github.com/user-attachments/assets/b7070ffb-f61d-4287-a275-5874755fc396" />
+
 ## Sanjiv Kumar
 
 Computational Biologist | AI Systems for Bioinformatics
