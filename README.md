@@ -2,38 +2,47 @@
 
 ## Sanjiv Kumar
 
-Computational Biologist | AI Systems for Bioinformatics
+**Senior Data Scientist** | Computational Biology, Spatial Biology, Bioinformatics
 
-I build AI-native systems for biological data analysis, combining machine learning, multi-agent architectures, and computational biology to accelerate discovery in genomics, imaging, and drug research.
+Ph.D. Biotechnology | 27 peer-reviewed publications | Stockholm, Sweden
 
-### Current Focus
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-27_papers-blue?style=flat&logo=googlescholar)](https://scholar.google.com/citations?user=ML7X29AAAAAJ)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3514--8999-green?style=flat&logo=orcid)](https://orcid.org/0000-0003-3514-8999)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sanjiv--kumar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanjiv-kumar-b246b44a/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-sanjiv856-20BEFF?style=flat&logo=kaggle)](https://www.kaggle.com/sanjiv856)
 
-* Multi-agent coding systems for automated bioinformatics pipelines
-* Scalable analysis of spatial, imaging, and multi-omics data
-* AI-assisted research workflows and reproducible science
+---
 
-### Core Expertise
+### What I Do
 
-* Bioinformatics: Genomics, Metagenomics, RNA-seq, Structural Biology
-* AI/ML: Scikit-learn, PyTorch, TensorFlow, LLM systems
-* Scientific Computing: Python, R, Bash, SQL
-* Imaging & Spatial Data: mIF, DAPI, segmentation, Zarr pipelines
+I work at the intersection of data science and biology. Over 15+ years I've moved across wet lab, bioinformatics, and ML, working on problems from tuberculosis adhesins to spatial transcriptomics.
 
-### Research Background
+Most recently at **Moleculent** (Stockholm): spatial biology analysis with SpatialData, multiplexed immunofluorescence, H&E image registration, and Zarr/OME-TIFF pipelines. Before that: molecular dynamics simulations of anti-microbial peptides (GROMACS) at Orebro University, drug target discovery for oomycete pathogens at KTH, and outer membrane protein characterization in *Treponema pallidum* at UConn Health.
 
-Ph.D. in Biotechnology with 10+ years in computational biology, including:
+### Technical Stack
 
-* Multi-omics and metagenomics analysis
-* Molecular dynamics simulations (GROMACS)
-* Protein structure and drug target discovery
+| Domain | Tools |
+|--------|-------|
+| Languages | Python, R, SQL, Bash |
+| ML/DL | Scikit-learn, PyTorch, TensorFlow, XGBoost |
+| Spatial Biology | SpatialData, Squidpy, mIF, Zarr, OME-TIFF |
+| Image Analysis | OpenCV, scikit-image, CNNs for classification |
+| Bioinformatics | GROMACS, RNA-Seq, metagenomics, structural biology |
+| Data Viz | Matplotlib, Seaborn, Plotly, ggplot2 |
+| LLM / AI Tools | Ollama, LM Studio, HuggingFace, Gradio |
+| Infrastructure | Docker, GitHub Actions |
 
-27+ peer-reviewed publications
+### Selected Work
 
-### Vision
+- **6 first-author papers** across computational biology, structural bioinformatics, and metagenomics
+- **3 corresponding-author papers** on outer membrane protein identification in bacterial pathogens
+- **International patent** on treatment of saprolegniasis (PCT/SE2020/050468)
+- **Protein structure in PDB**: Rv3717 amidase from *M. tuberculosis* ([4LQ6](https://www.rcsb.org/structure/4LQ6))
 
-Building a modular, AI-driven bioinformatics platform that bridges research and production systems in biotech and pharma.
+### Currently Working On
 
-### Links
+Building open-source tools from my research experience, starting with GROMACS analysis pipelines and spatial biology toolkits. Check back for new repos.
 
-* Publications: [Google Scholar](https://scholar.google.com/citations?user=ML7X29AAAAAJ&hl=en)
-* [LinkedIn](https://github.com/sanjiv856)
+---
+
+*Open to collaborations on computational biology, spatial omics, and ML for drug discovery.*
