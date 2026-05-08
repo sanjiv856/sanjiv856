@@ -17,27 +17,27 @@ Ph.D. Biotechnology | 27 peer-reviewed publications | Stockholm, Sweden
 
 I work at the intersection of data science and biology. Over 15+ years I've moved across wet lab, bioinformatics, and ML, working on problems from tuberculosis adhesins to spatial transcriptomics.
 
-Most recently at **Moleculent** (Stockholm): spatial biology analysis with SpatialData, multiplexed immunofluorescence, H&E image registration, and Zarr/OME-TIFF pipelines. Before that: molecular dynamics simulations of anti-microbial peptides (GROMACS) at Orebro University, drug target discovery for oomycete pathogens at KTH, and outer membrane protein characterization in *Treponema pallidum* at UConn Health.
+Most recently: spatial biology analysis with SpatialData, multiplexed immunofluorescence, H&E image registration, and Zarr/OME-TIFF pipelines. Before that: molecular dynamics simulations of anti-microbial peptides (GROMACS) at Orebro University, drug target discovery for oomycete pathogens at KTH, and outer membrane protein characterization in _Treponema pallidum_ at UConn Health.
 
 ### Technical Stack
 
-| Domain | Tools |
-|--------|-------|
-| Languages | Python, R, SQL, Bash |
-| ML/DL | Scikit-learn, PyTorch, TensorFlow, XGBoost |
-| Spatial Biology | SpatialData, Squidpy, mIF, Zarr, OME-TIFF |
-| Image Analysis | OpenCV, scikit-image, CNNs for classification |
-| Bioinformatics | GROMACS, RNA-Seq, metagenomics, structural biology |
-| Data Viz | Matplotlib, Seaborn, Plotly, ggplot2 |
-| LLM / AI Tools | Ollama, LM Studio, HuggingFace, Gradio |
-| Infrastructure | Docker, GitHub Actions |
+| Domain          | Tools                                              |
+| --------------- | -------------------------------------------------- |
+| Languages       | Python, R, SQL, Bash                               |
+| ML/DL           | Scikit-learn, PyTorch, TensorFlow, XGBoost         |
+| Spatial Biology | SpatialData, Squidpy, mIF, Zarr, OME-TIFF          |
+| Image Analysis  | OpenCV, scikit-image, CNNs for classification      |
+| Bioinformatics  | GROMACS, RNA-Seq, metagenomics, structural biology |
+| Data Viz        | Matplotlib, Seaborn, Plotly, ggplot2               |
+| LLM / AI Tools  | Ollama, LM Studio, HuggingFace, Gradio             |
+| Infrastructure  | Docker, GitHub Actions                             |
 
 ### Selected Work
 
 - **6 first-author papers** across computational biology, structural bioinformatics, and metagenomics
 - **3 corresponding-author papers** on outer membrane protein identification in bacterial pathogens
 - **International patent** on treatment of saprolegniasis (PCT/SE2020/050468)
-- **Protein structure in PDB**: Rv3717 amidase from *M. tuberculosis* ([4LQ6](https://www.rcsb.org/structure/4LQ6))
+- **Protein structure in PDB**: Rv3717 amidase from _M. tuberculosis_ ([4LQ6](https://www.rcsb.org/structure/4LQ6))
 
 ### Currently Working On
 
@@ -45,4 +45,4 @@ Building open-source tools from my research experience, starting with GROMACS an
 
 ---
 
-*Open to collaborations on computational biology, spatial omics, and ML for drug discovery.*
+_Open to collaborations on computational biology, spatial omics, and ML for drug discovery._
