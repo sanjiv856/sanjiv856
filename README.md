@@ -8,7 +8,7 @@ Ph.D. Biotechnology | 27 peer-reviewed publications | Stockholm, Sweden
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-27_papers-blue?style=flat&logo=googlescholar)](https://scholar.google.com/citations?user=ML7X29AAAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3514--8999-green?style=flat&logo=orcid)](https://orcid.org/0000-0003-3514-8999)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sanjiv--kumar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanjiv-kumar-b246b44a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sanjiv--kumar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanjiv-kumar-ph-d-b246b44a/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-sanjiv856-20BEFF?style=flat&logo=kaggle)](https://www.kaggle.com/sanjiv856)
 
 ---
